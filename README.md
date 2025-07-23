@@ -1,7 +1,7 @@
 # create-jira-ticket-from-slack-message-
 this project is about make jira ticket from slack simple message 
 
-## 🧩 Workflow: Slack → JIRA 
+## 🧩 Workflow: Slack message  → get message → create Jira ticket → Send this jira ticket message to user in thread 
 
 ### 🔄 Task Flow Example
 
