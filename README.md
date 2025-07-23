@@ -17,12 +17,12 @@ this project is about make jira ticket from slack simple message
 
 3. 📂 **Plan & Develop**
    - first make jira ticket from slack message and after that in that message react with ticket emoji
-   - after that in that slack message thread user can update jira ticket like timespent, description, etc.
+   - after that in that slack message thread user can update jira ticket like timespent, description, status etc.
 
 4. ✅ **Test**
    - Test in new slack workspace 
 
-5. 🚀 **Deployment (if applicable)**
+5. 🚀 **Deployment**
    - Deploy this workflow in slack workspace for all the user
    - Update JIRA ticket status to `Done`
 
